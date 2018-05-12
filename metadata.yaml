@@ -1,9 +1,13 @@
 _repo: A-Soldier-s-Daughter-and-Other-Stories_48297
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ewan, Frances
     gutenberg_agent_id: '44722'
     url: http://www.gutenberg.org/2009/agents/44722
+covers:
+- cover_type: archival
+  image_path: 48297-h/images/cover.jpg
 creator:
   author:
     agent_name: Henty, G. A. (George Alfred)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48297#A-Soldier-s-Daughter-and-Other-Stories
 gutenberg_issued: '2015-02-17'
 gutenberg_type: Text
 identifiers:
